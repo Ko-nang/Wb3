@@ -12,19 +12,19 @@ import java.util.Base64;
  */
 public class Base64Util {
     public static void main(String[] args) throws FileNotFoundException {
-       /* String a="Idea love code,you know why?";
+        String a="Idea love code,you know why?";
         System.out.println(base64Compress(a.getBytes()));
         System.out.println(base64Decompress(base64Compress(a.getBytes())));
-        File file=new File("pk.jpg");
-        String a=base64Compress(Md5.fileRead(file));
-        System.setOut(new PrintStream(new FileOutputStream("bb.html")));
-        StringBuilder sb=new StringBuilder();
-        sb.append("<img src =");
-        sb.append("\"");
-        sb.append("data:image/png;base64,");
-        sb.append(a);
-        sb.append("\"/>");
-        System.out.println(sb.toString());*/
+//        File file=new File("pk.jpg");
+//        String a=base64Compress(Md5.fileRead(file));
+//        System.setOut(new PrintStream(new FileOutputStream("bb.html")));
+//        StringBuilder sb=new StringBuilder();
+//        sb.append("<img src =");
+//        sb.append("\"");
+//        sb.append("data:image/png;base64,");
+//        sb.append(a);
+//        sb.append("\"/>");
+//        System.out.println(sb.toString());
     }
 
     /**

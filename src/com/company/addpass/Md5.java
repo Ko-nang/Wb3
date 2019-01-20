@@ -7,6 +7,8 @@ import java.security.NoSuchAlgorithmException;
 /**
  * @author Hakase on 2019/1/19.
  * @version 1.0
+ * dfae007079aa53071fefcb101a7f
+ * dfae0d047079aa530571fefcb1001a7f
  */
 public class Md5 {
     public static void main(String[] args){
