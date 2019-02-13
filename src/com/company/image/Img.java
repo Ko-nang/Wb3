@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * @author Hakase on 2019/1/18.
+ * @author Hakase
  * @version 1.0
  */
 public class Img {
